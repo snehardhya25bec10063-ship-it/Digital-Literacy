@@ -1,0 +1,23 @@
+# Stay Safe Online – Prevention Checklist
+
+Being aware and careful while using the internet can help prevent most cybercrimes. Here are some practical steps every college student should follow:
+
+- Always check whether you are sending or receiving money before entering your UPI PIN  
+- Never approve unknown "collect requests" on apps like Google Pay, PhonePe, or Paytm  
+- Do not share your OTP, UPI PIN, or bank details with anyone  
+- Avoid clicking on suspicious links received through messages or emails  
+- Use strong and unique passwords for different accounts  
+- Enable two-factor authentication wherever possible  
+- Keep your phone and apps updated to the latest version  
+- Avoid using public Wi-Fi for banking or financial transactions  
+- Verify the identity of people before making online payments or purchases  
+- Log out from accounts when using shared devices  
+
+## Reporting Cybercrime
+
+If you become a victim of cybercrime, report it immediately:
+
+- National Cyber Crime Portal: https://cybercrime.gov.in  
+- Helpline Number: 1930
+
+Staying alert and informed is the best way to protect yourself online.
